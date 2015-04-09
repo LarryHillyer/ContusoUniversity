@@ -1,0 +1,10 @@
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity.DAL\bin\Debug\ContosoUniversity.DAL.dll.config
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity.DAL\bin\Debug\ContosoUniversity.DAL.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity.DAL\bin\Debug\ContosoUniversity.DAL.pdb
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity.DAL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity.DAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity.DAL\obj\Debug\ContosoUniversity.DAL.pdb

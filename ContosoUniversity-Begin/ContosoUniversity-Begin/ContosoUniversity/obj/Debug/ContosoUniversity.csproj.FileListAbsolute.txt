@@ -1,0 +1,14 @@
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\bin\ContosoUniversity.DAL.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\bin\Elmah.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\bin\System.Data.SqlServerCe.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\bin\System.Web.Providers.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\bin\ContosoUniversity.DAL.pdb
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\Larry\Documents\ContosoUniversity-Begin\ContosoUniversity-Begin\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
